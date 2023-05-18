@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: black;
+}
+
+.handle {
+  /* backgr */
+  background: gray;
+  color: white;
+  margin: 11rem auto 0px auto;
+  height: 300px;
+  width: 500px;
+  padding: 20px;
+  text-align: center;
+}
+
+.badgeImg {
+  height: 200px;
+  width: 200px;
+  border: 2px solid red;
+  border-radius: 6rem;
+}
